@@ -1,6 +1,5 @@
 #Take a string from a user input
 user_input = input("Enter a string: ")
-print(user_input)
 
 #Remove any spaces and line breaks inside the string the user has input
 modified_string = user_input.replace(" ", "").replace("\n","")
