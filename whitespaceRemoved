@@ -1,0 +1,10 @@
+# Code to remove any whitespaces from a string
+
+#First I want to take a string from a user input
+user_input = input("Enter a string: ")
+
+#This line will remove any spaces inside the string the user has input
+modified_string = user_input.replace(" ", "")
+
+#Displays the user's string without any spaces
+print("Modified string:", modified_string)
