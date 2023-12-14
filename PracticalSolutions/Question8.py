@@ -1,5 +1,12 @@
 #Q8
 
+"""
+Write a program that calculates a person’s BMI (body mass Index) based on their height and weight.
+The program should then use conditional statements to determine if the person is underweight, normal weight, overweight,
+or obese, and provide appropriate advice on diet and exercise.
+
+"""
+
 height = float(input('Please enter your height in Metres'))
 weight = float(input('Please enter your weight in KGs'))
 
