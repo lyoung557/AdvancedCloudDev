@@ -39,7 +39,7 @@ Throughout this course, you will be given classworks, which are practical exerci
 ## Collaboration and Contribution
 - Pull Requests: You are encouraged to collaborate with your peers. If you have improvements or additions to the classworks, create a pull request to the main repository.
 
-```bash
+   ```bash
 git checkout -b <feature-branch>
 git commit -m "Add your message here"
 git push origin <feature-branch>
