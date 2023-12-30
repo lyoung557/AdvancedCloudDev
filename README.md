@@ -1,6 +1,6 @@
 # Advanced Cloud Development Technologies Course - Python Introduction Repository
 
-Lecture slides can be found [here](https://)
+Lecture slides, recordings, and practicals can be found [here](https://drive.google.com/drive/folders/1GBWeGZzwmZBVa6XwFNBpEepqNe_FSXld)
 
 Welcome to the Advanced Cloud Development Course! This repository serves as your first step into the world of Python programming. As future cloud computing professionals and machine learning enthusiasts, mastering Python is a crucial skill. This repository is designed to provide you with the foundational knowledge and hands-on experience needed to excel in Python programming.
 
