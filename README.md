@@ -46,5 +46,5 @@ git push origin <feature-branch>
 ```
 - Merging: Pull requests will be reviewed, and if suitable, they will be merged into the main repository. This is a great way to contribute to the learning process of the entire class.
 
-Support
+## Support
 If you encounter any problems or have any queries, feel free to reach out. I am here to help you on your learning journey. You've got my college email.
