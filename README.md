@@ -2,6 +2,8 @@
 
 Lecture slides, recordings, and practicals can be found [here](https://drive.google.com/drive/folders/1GBWeGZzwmZBVa6XwFNBpEepqNe_FSXld)
 
+For the API learning resources please check the folder `API_Understanding` and refer to [API-Understanding](##API Understanding)
+
 Welcome to the Advanced Cloud Development Course! This repository serves as your first step into the world of Python programming. As future cloud computing professionals and machine learning enthusiasts, mastering Python is a crucial skill. This repository is designed to provide you with the foundational knowledge and hands-on experience needed to excel in Python programming.
 
 ## Course Overview
@@ -17,6 +19,7 @@ This course focuses on advanced concepts in cloud computing, machine learning, a
 - Basic Machine Learning Concepts
 - Cloud Computing Fundamentals
 - Interaction with Cloud Services using Python
+- API-Understanding
 
 ## Getting Started
 
@@ -35,6 +38,11 @@ Throughout this course, you will be given classworks, which are practical exerci
 - Access Classworks: The classworks can be found here. Each classwork has its own directory within this repository.
 
 - Submission: Upon completion, commit your changes and push them to your forked repository.
+## API Understanding
+For the API section of this module, you will need to create a python environment.
+``python3 -m venv learning-api`` # you can name it whatever you want
+After creating the Python virtual environment, activate it by 
+``source learning-api/bin/activate``
 
 ## Collaboration and Contribution
 - Pull Requests: You are encouraged to collaborate with your peers. If you have improvements or additions to the classworks, create a pull request to the main repository.
