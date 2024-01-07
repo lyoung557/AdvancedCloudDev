@@ -2,7 +2,7 @@
 
 Lecture slides, recordings, and practicals can be found [here](https://drive.google.com/drive/folders/1GBWeGZzwmZBVa6XwFNBpEepqNe_FSXld)
 
-For the API learning resources please check the folder `API_Understanding` and refer to [API-Understanding](##API-Understanding)
+For the API learning resources please check the folder `API_Understanding` and refer to [API-Understanding](#API-Understanding)
 
 Welcome to the Advanced Cloud Development Course! This repository serves as your first step into the world of Python programming. As future cloud computing professionals and machine learning enthusiasts, mastering Python is a crucial skill. This repository is designed to provide you with the foundational knowledge and hands-on experience needed to excel in Python programming.
 
